@@ -17,7 +17,7 @@ Como solução faremos um estudo profundo dos dados fornecidos, dessa forma util
 
 ### Objective:
 - This project's main objective is to generate machine learning and/or deep learning models to predict a person's level of risk tolerance.
-- Este projeto tem como objetivo principal gerar um modelos de machine learning e/ou deep learning para predizer o nível de tolerância ao risco de uma pessoa.
+- Este projeto tem como objetivo principal gerar modelos de machine learning e/ou deep learning para predizer o nível de tolerância ao risco de uma pessoa.
 
 ### Data Origin:
 - Dataset: https://www.federalreserve.gov/econres/scfindex.htm
